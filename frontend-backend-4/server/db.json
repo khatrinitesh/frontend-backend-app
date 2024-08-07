@@ -21,9 +21,15 @@
       "email": "shanewarne@example.com"
     },
     {
-      "id": "13",
-      "name": "Quniton",
-      "email": "quniton@example.com"
+      "id": "24",
+      "name": "Michael",
+      "email": "michael@example.com"
+    },
+    {
+      "id": "1111110",
+      "name": "Adam Glichrist",
+      "email": "adamglichrist@example.com",
+      "thumbnail": "https://www.w3schools.com/html/img_girl.jpg"
     }
   ]
 }
